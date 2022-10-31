@@ -1,0 +1,29 @@
+{
+  "name": "techdot-front",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@formkit/auto-animate": "^1.0.0-beta.3",
+    "axios": "^1.1.3",
+    "dotenv": "^16.0.3",
+    "nanoid": "^4.0.0",
+    "vue": "^3.2.37",
+    "vue-router": "^4.1.5",
+    "vue-sweetalert2": "^5.0.5",
+    "vue3-google-login": "^2.0.12",
+    "vuex": "^4.1.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^3.1.0",
+    "autoprefixer": "^10.4.12",
+    "postcss": "^8.4.17",
+    "tailwindcss": "^3.1.8",
+    "vite": "^3.1.0"
+  }
+}
